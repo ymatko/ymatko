@@ -1,19 +1,19 @@
 ![Header](https://github.com/ymatko/ymatko/blob/main/assets/github-header-image.png)
 
-## Hey! 
+## Hey! <img src="https://github.com/ymatko/ymatko/blob/main/assets/Hi.gif" width="29px">
 
------
-I'm Yevhen, a 22 years old backend developer from Ukraine, now bassed in Poland, Warsaw.
+I'm Yevhen, a 22 years old .NET developer from Ukraine, now bassed in Poland, Warsaw.
 
 
------
 ## Skills
 -  .NET, ASP.NET Core, C#,  
 -  OpenCV, WinForms, 
 -  Linux, Bash
 -  MySQL, SQL, EntityFremwork
 
------
+## GitHub Stats
+
+
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/yevhen-matko-500ba5263/)
 - [Facebook](https://www.facebook.com/yevhen.matko/)
