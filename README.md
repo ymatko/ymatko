@@ -1,4 +1,4 @@
-![Header](https://github.com/ymatko/ymatko/blob/main/assets/Header.gif)
+![Header](https://github.com/ymatko/ymatko/blob/main/assets/github-header-image.png)
 
 About me
 
