@@ -2,7 +2,7 @@
 
 ## Hey! <img src="https://github.com/ymatko/ymatko/blob/main/assets/Hi.gif" width="29px">
 
-I'm Yevhen, a 22 years old .NET developer from Ukraine, now bassed in Poland, Warsaw.
+I'm Yevhen, 22 years old .NET developer from Ukraine, now based in Poland, Warsaw.
 
 
 ## Skills
