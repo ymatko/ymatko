@@ -12,12 +12,13 @@ I'm Yevhen, a 22 years old .NET developer from Ukraine, now bassed in Poland, Wa
 -  MySQL, SQL, EntityFremwork
 
 ## GitHub Stats
-
+<a align="center">
 <a href="https://github.com/ymatko/ymatko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ymatko&show_icons=true&line_height=27&count_private=true&title_color=00c732&text_color=c9cacc&icon_color=5094F0&bg_color=1d1f21" alt="Vadym's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ymatko&show_icons=true&line_height=27&count_private=true&title_color=00c732&text_color=c9cacc&icon_color=5094F0&bg_color=1d1f21"/>
 </a>
 <a href="https://github.com/ymatko/ymatko">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymatko&langs_count=8&title_color=00c732&text_color=c9cacc&icon_color=5094F0&bg_color=1d1f21&langs_count=3)](https://github.com/ymatko/github-readme-stats)"/>
+</a>
 </a>
 
 ## Contact
