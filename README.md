@@ -4,6 +4,10 @@
 
 I'm Yevhen, 22 years old .NET developer from Ukraine, now based in Poland, Warsaw.
 
+You can view my resume [here](https://github.com/ymatko/ymatko/blob/main/assets/CV.pdf)
+
+
+
 
 ## Skills
 -  .NET, ASP.NET Core, C#,  
