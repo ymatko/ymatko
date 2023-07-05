@@ -26,6 +26,6 @@ You can view my resume [here](https://github.com/ymatko/ymatko/blob/main/assets/
 </a>
 
 ## Contact
-- [Linkedin](https://www.linkedin.com/in/yevhen-matko-500ba5263/)
+- [Linkedin](https://www.linkedin.com/in/yevhen-matko/)
 - [Facebook](https://www.facebook.com/yevhen.matko/)
 - [Gmail](n246v1j80x6t@gmail.com)
