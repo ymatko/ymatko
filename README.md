@@ -13,7 +13,7 @@ You can view my resume [here](https://github.com/ymatko/ymatko/blob/main/assets/
 -  .NET, ASP.NET Core, C#,  
 -  OpenCV, WinForms, 
 -  Linux, Bash
--  MySQL, SQL, EntityFremwork
+-  MySQL, SQL, EntityFremwork, Fluent API
 
 ## GitHub Stats
 <a align="center">
