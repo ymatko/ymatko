@@ -11,9 +11,9 @@ You can view my resume [here](https://github.com/ymatko/ymatko/blob/main/assets/
 
 ## Skills
 -  .NET, ASP.NET Core, ASP.NET MVC, C#,  
--  OpenCV, WinForms, 
--  Linux, Bash
--  MySQL, SQL, EntityFremwork, Fluent API
+-  OpenCV, WinForms, NUnit/XUnit, Razor Pages
+-  Linux, Bash, Git
+-  MySQL, SQL, EntityFremwork Core, Fluent API
 
 ## GitHub Stats
 <a align="center">
