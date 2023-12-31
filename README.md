@@ -13,7 +13,7 @@ You can view my resume [here](https://github.com/ymatko/ymatko/blob/main/assets/
 -  .NET, ASP.NET Core, ASP.NET MVC, C#,
 -  RESTful API, MinimalAPI, Microservices, Swagger
 -  OpenCV, WinForms, NUnit/XUnit, Razor Pages
--  Linux, Bash, Git
+-  Linux, Bash, Git 
 -  MSSQL, SQL, EntityFremwork Core, Fluent API
 
 ## GitHub Stats
