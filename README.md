@@ -12,7 +12,8 @@ You can view my resume [here](https://github.com/ymatko/ymatko/blob/main/assets/
 ## Skills
 -  .NET, ASP.NET Core, ASP.NET MVC, C#,
 -  RESTful API, MinimalAPI,
--  Azure, Microservices, Swagger
+-  Azure, Docker, Microservices
+-  Rabbit MQ, Azure Service Bus
 -  OpenCV, WinForms, NUnit/XUnit, Razor Pages
 -  Linux, Bash, Git 
 -  MSSQL, SQL, EntityFremwork Core, Fluent API
