@@ -33,16 +33,6 @@ I'm **Yevhen**, a **Dynamics 365 Business Central Developer** & **.NET Developer
 - [cite_start]**Databases:** MSSQL, SQL, MySQL[cite: 45].
 - [cite_start]**Environment:** Linux, Bash, Docker[cite: 49].
 
-## GitHub Stats
-<a align="center">
-<a href="https://github.com/ymatko/ymatko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ymatko&show_icons=true&line_height=27&count_private=true&title_color=00c732&text_color=c9cacc&icon_color=00c732&bg_color=1d1f21"/>
-</a>
-<a href="https://github.com/ymatko/ymatko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymatko&hide=html&title_color=00c732&text_color=c9cacc&bg_color=1d1f21&langs_count=3"/>
-</a>
-</a>
-
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/yevhen-matko/)
 - [Facebook](https://www.facebook.com/yevhen.matko/)
