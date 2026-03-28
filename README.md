@@ -23,15 +23,15 @@ I'm **Yevhen**, a **Dynamics 365 Business Central Developer** & **.NET Developer
 - **Integration:** API development (REST, OData, SOAP), Webhooks, and Microsoft Services integration.
 
 #### **.NET & Backend Development**
-- [cite_start]**Languages & Frameworks:** C#, .NET Core 7/8, ASP.NET Core MVC, Razor Pages[cite: 43, 47, 48].
-- [cite_start]**Data & APIs:** RESTful API, MinimalAPI, Entity Framework Core, Fluent API[cite: 43, 45].
-- [cite_start]**Messaging & Cloud:** Azure, Azure Service Bus, Rabbit MQ, Microservices[cite: 60, 61].
-- [cite_start]**Desktop & Vision:** WinForms, OpenCV, Scott Plot[cite: 41, 47].
+- **Languages & Frameworks:** C#, .NET Core 7/8, ASP.NET Core MVC, Razor Pages.
+- **Data & APIs:** RESTful API, MinimalAPI, Entity Framework Core, Fluent API.
+- **Messaging & Cloud:** Azure, Azure Service Bus, Rabbit MQ, Microservices.
+- **Desktop & Vision:** WinForms, OpenCV, Scott Plot.
 
 #### **Tools & DevOps**
-- [cite_start]**Version Control:** Git, GitHub[cite: 44].
-- [cite_start]**Databases:** MSSQL, SQL, MySQL[cite: 45].
-- [cite_start]**Environment:** Linux, Bash, Docker[cite: 49].
+- **Version Control:** Git, GitHub.
+- **Databases:** MSSQL, SQL, MySQL.
+- **Environment:** Linux, Bash, Docker.
 
 ## Contact
 - [Linkedin](https://www.linkedin.com/in/yevhen-matko/)
